@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD.Asif Molla</h1>
 <h3 align="center">A passionate beginner full stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdasifmolla&label=Profile%20views&color=0e75b6&style=flat" alt="mdasifmolla" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
